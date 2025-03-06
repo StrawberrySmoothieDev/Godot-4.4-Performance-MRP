@@ -13,7 +13,6 @@ config_version=5
 config/name="PerformanceTest4.3Metal"
 run/main_scene="uid://uc5h8is5qxbc"
 config/features=PackedStringArray("4.4", "Forward Plus")
-run/max_fps=60
 config/icon="res://icon.svg"
 
 [display]
